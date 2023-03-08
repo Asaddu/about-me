@@ -1,0 +1,3 @@
+1. Writing AI based coding projects using openAI's apis
+2. Playing FIFA
+3. Spending time with my cat
